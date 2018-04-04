@@ -1,0 +1,23 @@
+body {
+ 	font-family: verdana;
+ 	color: brown; 
+	background-color: beige;
+} 
+
+header {
+ 	background-color: orange;
+ 	height: 150px; 
+}
+
+footer {
+ 	background-color: orange;
+ 	height: 125px; 
+}
+
+aside {
+	background-color: white;
+	float: right;
+	width: 200px;
+	margin: 5px;
+	padding: 5px;
+}

@@ -1,0 +1,19 @@
+body {
+ 	background-color:beige;
+ 	color:brown;
+ 	font-family:Verdana, Geneva, sans-serif;
+} 
+form {
+	font-family: Tahoma, Geneva, sans-serif;
+	color: blue;
+	background-color: yellow;
+}
+input {
+ 	font-family: Verdana, Geneva, sans-serif; 	color: #FFF;
+ 	background-color: #00F; 
+}
+textarea {
+	font-family: Verdana, Geneva, sans-serif;
+	color: yellow;
+	background-color: blue;
+}

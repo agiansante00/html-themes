@@ -1,0 +1,42 @@
+@charset "UTF-8";
+#main_container {
+	height: 780px;
+	background-color: yellow;
+	width: 960px;
+	position: relative;
+	margin-right: auto;
+	margin-left: auto;
+}
+#header {
+	background-color: aqua;
+	height: 120px;
+	padding-left: 5px;
+}
+#footer {
+	position:absolute;
+	bottom:0;
+	width:100%;
+	height:60px;
+	background-color: aqua;
+	padding-left: 10px;
+}
+
+#left_column {
+	background-color: beige;
+	float: left;
+	width: 220px;
+	height: 600px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+#left_column:hover {
+	background-color: pink;
+}
+#right_column {
+	background-color: white;
+	float: left;
+	height: 600px;
+	padding-left: 10px;
+	padding-right: 10px;
+	width: 700px;
+}
